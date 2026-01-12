@@ -1,0 +1,22 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "pawrtal-a927a",
+                    "appId": "1:237283618539:android:3f02a1c671e40666c118ae",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "pawrtal-a927a",
+                    "configurations": {
+                        "android": "1:237283618539:android:3f02a1c671e40666c118ae",
+                        "web": "1:237283618539:web:c7e3181accc5efddc118ae"
+                    }
+                }
+            }
+        }
+    }
+}

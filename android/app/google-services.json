@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237283618539",
+    "project_id": "pawrtal-a927a",
+    "storage_bucket": "pawrtal-a927a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237283618539:android:3f02a1c671e40666c118ae",
+        "android_client_info": {
+          "package_name": "com.example.capstone_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXJ3u5bkSBZv6VQCPs4gTsRV2oW2ckAzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

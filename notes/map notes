@@ -1,0 +1,23 @@
+map shits
+
+// pubspec.yaml
+dependencies:
+  // before integration
+  flutter_map: ^7.0.0
+  flutter_map_marker_popup: ^7.0.0
+  latlong2: ^0.9.1
+  geolocator: ^11.0.0
+
+  // after integration
+  flutter_map: ^6.1.0
+  flutter_map_marker_popup: ^6.1.2
+  latlong2: ^0.9.1
+  geolocator: ^11.0.0
+
+// directory: android/app/src/main/AndroidManifest.xml
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    
+    <application
+        android:usesCleartextTraffic="true"
+        application/>
